@@ -12,4 +12,4 @@ class Dog
   @@all
   end
 end
-Dog.new("rudolph", "mastiff", 1)
+#Dog.new("rudolph", "mastiff", 1)
