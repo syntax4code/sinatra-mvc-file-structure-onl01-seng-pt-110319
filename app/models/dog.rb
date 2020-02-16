@@ -11,3 +11,4 @@ class Dog
   @@all
   end
 end
+Dog.new("rudolph", "mastiff", 2
